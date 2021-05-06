@@ -1,0 +1,9 @@
+*  Chrome startup... please wait
+*  Establish connection with Chrome... please wait
+*  Opening login webpage... please wait
+*  Please login in to website now ...waiting for you to finish...
+*  Verification of data in progress... please wait
+*  File creation in progress... please wait
+-> Operations completed!
+The 'NFAuthentication.key' file has been saved in current folder.
+Your PIN protection is: 5425
